@@ -80,15 +80,21 @@ h2{
     width:  50px;
     border-radius: 60px;
 }
-a{
+
+span a{
     color: blue;
+    text-decoration: none;
     font-size: 12px;
+}
+footer .reseaux a{
+    color: blue;
+    font-size: 30px;
     text-decoration: none;
 }
 footer{
     color: aliceblue;
     font-size: 20px;
-    padding-top: 15px;
+    padding-top: 2px;
 }
 
 @media (max-width:568px) {
